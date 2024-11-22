@@ -1,0 +1,46 @@
+[0.020s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=/home/arq/car_ws/install/my_car:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/arq/dev_ws/src/car -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/arq/dev_ws/install/car
+[0.123s] -- The C compiler identification is GNU 11.4.0
+[0.206s] -- The CXX compiler identification is GNU 11.4.0
+[0.220s] -- Detecting C compiler ABI info
+[0.301s] -- Detecting C compiler ABI info - done
+[0.309s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.310s] -- Detecting C compile features
+[0.311s] -- Detecting C compile features - done
+[0.315s] -- Detecting CXX compiler ABI info
+[0.406s] -- Detecting CXX compiler ABI info - done
+[0.415s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.415s] -- Detecting CXX compile features
+[0.416s] -- Detecting CXX compile features - done
+[0.422s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.610s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.690s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.729s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.830s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.831s] -- Added test 'lint_cmake' to check CMake code style
+[0.832s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.833s] -- Added test 'xmllint' to check XML markup files
+[0.836s] -- Configuring done
+[0.839s] -- Generating done
+[0.840s] -- Build files have been written to: /home/arq/dev_ws/build/car
+[0.846s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=/home/arq/car_ws/install/my_car:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/arq/dev_ws/src/car -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/arq/dev_ws/install/car
+[0.847s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=/home/arq/car_ws/install/my_car:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/car -- -j12 -l12
+[0.888s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=/home/arq/car_ws/install/my_car:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/car -- -j12 -l12
+[0.924s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=/home/arq/car_ws/install/my_car:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/car
+[0.932s] -- Install configuration: ""
+[0.932s] -- Execute custom install script
+[0.933s] -- Symlinking: /home/arq/dev_ws/install/car/share/ament_index/resource_index/package_run_dependencies/car
+[0.943s] -- Symlinking: /home/arq/dev_ws/install/car/share/ament_index/resource_index/parent_prefix_path/car
+[0.953s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/environment/ament_prefix_path.sh
+[0.962s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/environment/ament_prefix_path.dsv
+[0.972s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/environment/path.sh
+[0.981s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/environment/path.dsv
+[0.991s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/local_setup.bash
+[1.000s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/local_setup.sh
+[1.011s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/local_setup.zsh
+[1.020s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/local_setup.dsv
+[1.029s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/package.dsv
+[1.039s] -- Symlinking: /home/arq/dev_ws/install/car/share/ament_index/resource_index/packages/car
+[1.049s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/cmake/carConfig.cmake
+[1.058s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/cmake/carConfig-version.cmake
+[1.068s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/package.xml
+[1.079s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=/home/arq/car_ws/install/my_car:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/car

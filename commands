@@ -1,0 +1,3 @@
+ros2 run gazebo_ros spawn_entity.py -topic robot_description -entity bot_name
+ros2 launch car launch_sim.launch.py world:=./src/car/worlds/custom.world
+

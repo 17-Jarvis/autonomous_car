@@ -1,0 +1,5 @@
+/home/arq/dev_ws/install/car/share/car/description/robot_core.xacro
+/home/arq/dev_ws/install/car/share/car/description/gazebo_control.xacro
+/home/arq/dev_ws/install/car/share/car/description/inertial_macros.xacro
+/home/arq/dev_ws/install/car/share/car/description/robot.urdf.xacro
+/home/arq/dev_ws/install/car/share/car/description/new_robot.xacro

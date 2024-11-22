@@ -1,0 +1,29 @@
+[0.007s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/car -- -j12 -l12
+[0.030s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/car -- -j12 -l12
+[0.049s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/car
+[0.054s] -- Install configuration: ""
+[0.054s] -- Up-to-date: /home/arq/dev_ws/install/car/share/car/description
+[0.054s] -- Up-to-date: /home/arq/dev_ws/install/car/share/car/description/robot_core.xacro
+[0.054s] -- Up-to-date: /home/arq/dev_ws/install/car/share/car/description/gazebo_control.xacro
+[0.054s] -- Up-to-date: /home/arq/dev_ws/install/car/share/car/description/inertial_macros.xacro
+[0.054s] -- Installing: /home/arq/dev_ws/install/car/share/car/description/robot.urdf.xacro
+[0.054s] -- Up-to-date: /home/arq/dev_ws/install/car/share/car/description/new_robot.xacro
+[0.054s] -- Execute custom install script
+[0.055s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/launch/launch_sim.launch.py
+[0.055s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/launch/rsp.launch.py
+[0.055s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/ament_index/resource_index/package_run_dependencies/car
+[0.055s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/ament_index/resource_index/parent_prefix_path/car
+[0.055s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/environment/ament_prefix_path.sh
+[0.055s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/environment/ament_prefix_path.dsv
+[0.056s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/environment/path.sh
+[0.056s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/environment/path.dsv
+[0.056s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/local_setup.bash
+[0.056s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/local_setup.sh
+[0.056s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/local_setup.zsh
+[0.056s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/local_setup.dsv
+[0.056s] -- Symlinking: /home/arq/dev_ws/install/car/share/car/package.dsv
+[0.062s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/ament_index/resource_index/packages/car
+[0.062s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/cmake/carConfig.cmake
+[0.062s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/cmake/carConfig-version.cmake
+[0.062s] -- Up-to-date symlink: /home/arq/dev_ws/install/car/share/car/package.xml
+[0.064s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/car

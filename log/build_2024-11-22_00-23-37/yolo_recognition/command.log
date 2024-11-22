@@ -1,0 +1,4 @@
+Invoking command in '/home/arq/dev_ws/build/yolo_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/yolo_recognition -- -j12 -l12
+Invoked command in '/home/arq/dev_ws/build/yolo_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/yolo_recognition -- -j12 -l12
+Invoking command in '/home/arq/dev_ws/build/yolo_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/yolo_recognition
+Invoked command in '/home/arq/dev_ws/build/yolo_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/yolo_recognition

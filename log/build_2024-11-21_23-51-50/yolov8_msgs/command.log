@@ -1,0 +1,2 @@
+Invoking command in '/home/arq/dev_ws/build/yolov8_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/arq/dev_ws/src/yolov8_msgs -DCMAKE_INSTALL_PREFIX=/home/arq/dev_ws/install/yolov8_msgs
+Invoked command in '/home/arq/dev_ws/build/yolov8_msgs' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/arq/dev_ws/src/yolov8_msgs -DCMAKE_INSTALL_PREFIX=/home/arq/dev_ws/install/yolov8_msgs
