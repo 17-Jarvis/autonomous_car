@@ -1,3 +1,18 @@
 ros2 run gazebo_ros spawn_entity.py -topic robot_description -entity bot_name
 ros2 launch car launch_sim.launch.py world:=./src/car/worlds/custom.world
+ros2 lifecycle set /map_server configure
+ros2 lifecycle set /map_server activate
+ros2 run nav2_map_server map_server --ros-args -p yaml_filename:="/home/arq/dev_ws/new.yaml" -p use_sim_time:=true
+ros2 run nav2_util lifecycle_bringup amcl
+
+
+
+
+1.ros2 run nav2_map_server map_server --ros-args -p yaml_filename:="/home/arq/dev_ws/new.yaml"
+2.ros2 lifecycle set /map_server configure
+3.ros2 lifecycle set /map_server activate
+4.ros2 launch car launch_sim.launch.py world:=./src/car/worlds/obstacle.world
+5.ros2 run nav2_amcl amcl --ros-args -p use_sim_time:=true
+6.ros2 run nav2_util lifecycle_bringup amcl
+7. ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true
 

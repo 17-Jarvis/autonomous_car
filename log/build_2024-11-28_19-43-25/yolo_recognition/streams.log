@@ -1,0 +1,30 @@
+[0.017s] Invoking command in '/home/arq/dev_ws/build/yolo_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/yolo_recognition -- -j12 -l12
+[0.055s] Invoked command in '/home/arq/dev_ws/build/yolo_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/yolo_recognition -- -j12 -l12
+[0.091s] Invoking command in '/home/arq/dev_ws/build/yolo_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/yolo_recognition
+[0.109s] -- Install configuration: ""
+[0.109s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//scripts
+[0.109s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//scripts/.gitattributes
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//scripts/yolov8n.pt
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//scripts/yolov8_ros2_pt.py
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//scripts/.dockerignore
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//scripts/.gitignore
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//launch
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition//launch/launch_yolov8.launch.py
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/lib/yolo_recognition/yolov8_ros2_pt.py
+[0.110s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/lib/yolo_recognition/launch_yolov8.launch.py
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/ament_index/resource_index/package_run_dependencies/yolo_recognition
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/ament_index/resource_index/parent_prefix_path/yolo_recognition
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/environment/ament_prefix_path.sh
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/environment/ament_prefix_path.dsv
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/environment/path.sh
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/environment/path.dsv
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/local_setup.bash
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/local_setup.sh
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/local_setup.zsh
+[0.111s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/local_setup.dsv
+[0.113s] -- Installing: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/package.dsv
+[0.113s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/ament_index/resource_index/packages/yolo_recognition
+[0.114s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/cmake/yolo_recognitionConfig.cmake
+[0.114s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/cmake/yolo_recognitionConfig-version.cmake
+[0.114s] -- Up-to-date: /home/arq/dev_ws/install/yolo_recognition/share/yolo_recognition/package.xml
+[0.128s] Invoked command in '/home/arq/dev_ws/build/yolo_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/yolo_recognition

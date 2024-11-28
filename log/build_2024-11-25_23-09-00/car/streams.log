@@ -1,0 +1,53 @@
+[0.011s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/arq/dev_ws/src/car -DCMAKE_INSTALL_PREFIX=/home/arq/dev_ws/install/car
+[0.070s] -- The C compiler identification is GNU 11.4.0
+[0.122s] -- The CXX compiler identification is GNU 11.4.0
+[0.128s] -- Detecting C compiler ABI info
+[0.175s] -- Detecting C compiler ABI info - done
+[0.180s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.180s] -- Detecting C compile features
+[0.181s] -- Detecting C compile features - done
+[0.183s] -- Detecting CXX compiler ABI info
+[0.239s] -- Detecting CXX compiler ABI info - done
+[0.244s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.244s] -- Detecting CXX compile features
+[0.244s] -- Detecting CXX compile features - done
+[0.246s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.561s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.640s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.708s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.709s] -- Added test 'lint_cmake' to check CMake code style
+[0.709s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.711s] -- Added test 'xmllint' to check XML markup files
+[0.712s] -- Configuring done
+[0.715s] -- Generating done
+[0.716s] -- Build files have been written to: /home/arq/dev_ws/build/car
+[0.721s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/arq/dev_ws/src/car -DCMAKE_INSTALL_PREFIX=/home/arq/dev_ws/install/car
+[0.723s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/car -- -j12 -l12
+[0.753s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/arq/dev_ws/build/car -- -j12 -l12
+[0.777s] Invoking command in '/home/arq/dev_ws/build/car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/car
+[0.784s] -- Install configuration: ""
+[0.784s] -- Installing: /home/arq/dev_ws/install/car/share/car/description
+[0.784s] -- Installing: /home/arq/dev_ws/install/car/share/car/description/robot_core.xacro
+[0.784s] -- Installing: /home/arq/dev_ws/install/car/share/car/description/gazebo_control.xacro
+[0.784s] -- Installing: /home/arq/dev_ws/install/car/share/car/description/inertial_macros.xacro
+[0.785s] -- Installing: /home/arq/dev_ws/install/car/share/car/description/robot.urdf.xacro
+[0.785s] -- Installing: /home/arq/dev_ws/install/car/share/car/description/new_robot.xacro
+[0.785s] -- Installing: /home/arq/dev_ws/install/car/share/car/launch
+[0.785s] -- Installing: /home/arq/dev_ws/install/car/share/car/launch/launch_sim.launch.py
+[0.785s] -- Installing: /home/arq/dev_ws/install/car/share/car/launch/rsp.launch.py
+[0.785s] -- Installing: /home/arq/dev_ws/install/car/share/ament_index/resource_index/package_run_dependencies/car
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/ament_index/resource_index/parent_prefix_path/car
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/environment/ament_prefix_path.sh
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/environment/ament_prefix_path.dsv
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/environment/path.sh
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/environment/path.dsv
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/local_setup.bash
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/local_setup.sh
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/local_setup.zsh
+[0.786s] -- Installing: /home/arq/dev_ws/install/car/share/car/local_setup.dsv
+[0.787s] -- Installing: /home/arq/dev_ws/install/car/share/car/package.dsv
+[0.787s] -- Installing: /home/arq/dev_ws/install/car/share/ament_index/resource_index/packages/car
+[0.787s] -- Installing: /home/arq/dev_ws/install/car/share/car/cmake/carConfig.cmake
+[0.787s] -- Installing: /home/arq/dev_ws/install/car/share/car/cmake/carConfig-version.cmake
+[0.787s] -- Installing: /home/arq/dev_ws/install/car/share/car/package.xml
+[0.789s] Invoked command in '/home/arq/dev_ws/build/car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arq/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/arq/dev_ws/build/car

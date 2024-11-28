@@ -1,0 +1,25 @@
+amcl:
+  use_sim_time: true
+  min_particles: 500
+  max_particles: 5000
+  kld_err: 0.01
+  kld_z: 0.99
+  alpha1: 0.2
+  alpha2: 0.2
+  alpha3: 0.5
+  alpha4: 0.1
+  alpha5: 0.05
+  alpha6: 0.1
+  alpha7: 0.2
+  alpha8: 0.1
+  odom_frame: odom
+  base_frame: base_footprint
+  global_frame: map
+  transform_tolerance: 1.0
+  laser_model_type: likelihood_field
+  laser_max_range: 30.0
+  laser_min_range: 0.1
+  update_min_a: 0.2
+  update_min_d: 0.5
+  resample_interval: 2
+  scan_topic: /scan  # Make sure this is your robot's scan topic
